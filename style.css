@@ -10,7 +10,7 @@
   
   body {
     color: black;
-    background-color: white;
+    background-color: rgb(227, 233, 230);
     margin: 0;
     padding: 0;
   }
@@ -85,11 +85,11 @@
   }
   
   .fa-primary {
-    color: #ff7eee;
+    color: #25bb00;
   }
   
   .fa-secondary {
-    color: #df49a6;
+    color: #028872;
   }
   
   .fa-primary,
